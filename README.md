@@ -13,5 +13,3 @@ To get all Experts you can use this query
 
 To get all Subjects you can use this query
 <img src="./readme/subjects.png" alt="">
-
-temperory working link to test this project is https://www.entoexpert.vercel.app/api/graphql
